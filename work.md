@@ -1,3 +1,7 @@
+### Long Term Goal
+
+Loongarch
+
 ### Code Reading
 
 avaloniaui/avalonia, dotnet/wpf, dotnet/runtime, cross-rs/cross, velopack/velopack

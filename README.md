@@ -1,6 +1,6 @@
 ### About Me
 
-I'd like to help you if there's any free time.
+I'd like to help you if there's any free time. And I like music.
 
 #### Roles
 

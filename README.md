@@ -9,7 +9,8 @@ Skilled at...
 * Game Engine: UE, Godot
 * FFI, V8, CPython, WebAssembly, N-API
 * C#(dotnet), WPF, WinUI, Avalonia
-Learning everything...
+
+_Learning everything..._
 
 Contact/Hire me: cmVhbHliaW5AcXEuY29t
 

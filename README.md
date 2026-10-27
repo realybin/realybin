@@ -10,6 +10,10 @@ Skilled at...
 * FFI, V8, CPython, WebAssembly, N-API
 * C#(dotnet), WPF, WinUI, Avalonia
 
+Interest in...
+* User Experience
+* ...
+
 _Learning everything..._
 
 Contact/Hire me: cmVhbHliaW5AcXEuY29t
